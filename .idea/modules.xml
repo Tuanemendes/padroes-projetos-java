@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/padrao-singleton/padrao-singleton.iml" filepath="$PROJECT_DIR$/padrao-singleton/padrao-singleton.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/padroes-projetos-java.iml" filepath="$PROJECT_DIR$/.idea/padroes-projetos-java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/projetos/projetos.iml" filepath="$PROJECT_DIR$/projetos/projetos.iml" />
+    </modules>
+  </component>
+</project>
