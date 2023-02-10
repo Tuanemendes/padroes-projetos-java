@@ -16,9 +16,5 @@ public class TesteStrategy {
         robo.setComportamento(agresivo);
         robo.mover();
         robo.mover();
-
-
-
-        System.out.println();
     }
 }
